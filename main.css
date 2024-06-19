@@ -1,0 +1,68 @@
+.navbar{
+    /* background-color: #9ABCA7; */
+    background: none;
+    margin-right: 200px;
+}
+.navbar-brand{
+    padding-left: 20px;
+    font-size: 50px;
+    font-weight: 400;
+    /* position: absolute; */
+    color: #9ABCA7;
+    
+}
+.navbar-brand:hover{
+    color: #9ABCA7;
+}
+body{
+    background-image: url("wallp.jpg");
+    background-size:cover ;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-position: center;
+}
+li{
+    font-weight: 400;
+}
+.background{
+    background-size:cover ;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-position: center;
+}
+h1 {
+    text-align: center;
+    margin: 30px;
+    /* top: 50%; */
+    /* line-height: 200px; */
+    color: #9ABCA7;
+    text-shadow: 2px 2px 2px #000000;
+    font-size: 100px;
+}
+h2{
+    text-align: center;
+    color: #9ABCA7;
+    text-shadow: 2px 2px 2px #000000;
+}
+
+h3{
+    text-align: center;
+    margin: 50px auto;
+    color: #9ABCA7;
+    text-shadow: 2px 2px 2px #000000;
+}   
+.nav-link{
+    color: #9ABCA7;
+    transition: ease-in-out 0.3s;
+    
+}
+.nav-link:hover{
+    color: #9ABCA7;
+    scale: 1.2;
+    text-decoration: underline;
+}
+.navbar-nav{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -1,0 +1,22 @@
+.navbar{
+    background-color: #9ABCA7;
+}
+.navbar-brand{
+    padding-left: 20px;
+}
+body{
+    background: #9ABCA7;
+}
+.card-img-top{
+    height: 200px;
+    object-fit: cover;
+}
+.btn-align{
+    text-align: center;
+} 
+h5 {
+    text-align: center;
+}
+p{
+    text-align: center;
+}
